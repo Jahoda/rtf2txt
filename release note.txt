@@ -1,0 +1,5 @@
+Bugs list
+1. Images, tables, bullets were not handled
+
+Release note:
+The bug list items are fixed.
